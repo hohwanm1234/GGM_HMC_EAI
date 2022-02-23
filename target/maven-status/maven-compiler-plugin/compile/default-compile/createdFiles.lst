@@ -1,0 +1,5 @@
+com\xconnect\eai\external\component\FTPDataToJDBC.class
+com\xconnect\eai\external\HmcEaiConnect\Sample.class
+com\xconnect\eai\external\HmcEaiConnect\GGMMessageMapper.class
+com\xconnect\eai\external\HmcEaiConnect\CustomMessageMapper.class
+com\xconnect\eai\external\HmcEaiConnect\SoapdataMakeMssageSet.class
